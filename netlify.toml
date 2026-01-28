@@ -1,4 +1,0 @@
-[build]
-  base = "earth"
-  publish = "build"
-  command = "npm run build"
