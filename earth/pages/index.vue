@@ -785,6 +785,7 @@ div::-webkit-scrollbar {
   font-size: 11px;
   font-weight: 400;
   line-height: 18px;
+  user-select: none;
 }
 /* Menu list  */
 .v-list {
@@ -827,5 +828,6 @@ div::-webkit-scrollbar {
   height: 90vh;
   min-height: 90vh;
   max-height: 90vh;
+  user-select: none;
 }
 </style>

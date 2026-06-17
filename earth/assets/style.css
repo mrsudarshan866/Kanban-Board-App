@@ -4,6 +4,7 @@
   font-family: 'Poppins', sans-serif;
   font-weight: 300;
   font-style: normal;
+  user-select: none;
 }
 
 .poppins-thin {
@@ -21,7 +22,7 @@
 .poppins-light {
   font-family: 'Poppins', sans-serif;
   font-weight: 300;
-  font-style:normal;
+  font-style: normal;
   font-size: 10px;
 }
 
